@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## What is This 
 
-This is next js template to which is bundled with MUI and redux for building your multi billion $ application using this template 
+This is next js template which is bundled with MUI and redux for building your multi billion $ application.
 
 further more, template is open for contribution from anyone.
 
