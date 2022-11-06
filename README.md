@@ -1,10 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is next js template to which is bundled with MUI and redux for building your multi billion $ application using this template 
 
-## What is This 
-
-This is next js template which is bundled with MUI and redux for building your multi billion $ application.
 
 further more, template is open for contribution from anyone.
+
+# Working
+
+integration of Redux Thunk for async update
 
 ## Getting Started
 
