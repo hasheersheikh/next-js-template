@@ -1,5 +1,6 @@
 This is next js template to which is bundled with MUI and redux for building your multi billion $ application using this template 
 
+
 further more, template is open for contribution from anyone.
 
 # Working
